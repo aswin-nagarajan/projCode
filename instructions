@@ -1,0 +1,3 @@
+create a folder named frames
+run video.py
+run neucleotide_generator.py
